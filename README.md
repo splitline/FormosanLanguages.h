@@ -11,7 +11,7 @@
 ## Example
 
 
-```clike=
+```c++
 #include "FormosanLanguages.h"
 #include <stdio.h>
 int main() {
