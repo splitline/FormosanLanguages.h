@@ -1,5 +1,7 @@
 # FormosanLanguages.h
 
+<img src="we_are_taiwanese.jpg" width="100%">
+
 讓您輕鬆用原住民語寫程式！
 
 ## Usage
