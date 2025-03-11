@@ -1,6 +1,7 @@
 # FormosanLanguages.h
 
-<img src="we_are_taiwanese.jpg" width="100%">
+> <img src="we_are_taiwanese.jpg" width="100%">
+> reference: https://web.archive.org/web/20240917081429/https://www.grjh.ntpc.edu.tw/p/412-1000-918.php
 
 讓您輕鬆用原住民語寫程式！
 
